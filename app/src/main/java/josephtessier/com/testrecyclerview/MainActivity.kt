@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var food_list = arrayOf("apples","avocado","alfalfa","bacon","baked beans",
-                "banana","bison","broccoli","bread","barley","Cabbage","carrot","crab","curry",
+                "banana","bison","broccoli", "blah blah blah","bread","barley","Cabbage","carrot","crab","curry",
                 "chips","catfish","dates","donuts","eggs","eggrolls","fish","franks","Noodles",
                 "Pizza","Pancakes","Toast","Zucchini")
 
